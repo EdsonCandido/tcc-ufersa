@@ -1,9 +1,9 @@
 # Completion of Course Work
 
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/zegildo/francisdrake/blob/master/License.md) 
-[![fork](https://img.shields.io/github/forks/zegildo/francisdrake.svg)](https://github.com/zegildo/francisdrake/network/members)
-[![issues](https://img.shields.io/github/issues/zegildo/francisdrake.svg)](https://github.com/zegildo/francisdrake/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/EdsonCandido/tcc-ufersa/License.md) 
+[![fork](https://img.shields.io/github/forks/zegildo/francisdrake.svg)](https://github.com/EdsonCandido/tcc-ufersa/network/members)
+[![issues](https://img.shields.io/github/issues/zegildo/francisdrake.svg)](https://github.com/EdsonCandido/tcc-ufersa/issues)
 
 ## Execute Code:
 
