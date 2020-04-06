@@ -2,7 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/EdsonCandido/tcc-ufersa/License.md) 
-![fork](https://github.com/EdsonCandido/tcc-ufersa/network/members)
 
 
 ## Execute Code:
