@@ -16,4 +16,4 @@ foo@bar:~$ yarn install
 ```
 
 # Important
-It is necessary to install the [yarn](https://yarnpkg.com/getting-started) command to run these **yarn **.
+It is necessary to install the [yarn](https://yarnpkg.com/getting-started) command to run these **yarn**.
